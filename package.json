@@ -11,7 +11,8 @@
   "dependencies": {
     "@vitejs/plugin-vue": "latest",
     "vite": "latest",
-    "vue": "latest"
+    "vue": "latest",
+    "sass": "latest"
   },
   "devDependencies": {}
 }
